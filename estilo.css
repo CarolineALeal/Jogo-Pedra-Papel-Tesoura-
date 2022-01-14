@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(68.15deg, #848c90 16.62%, #f7fbfb 85.61%);
+}
+
+.jogo1{
+    position: absolute;
+    margin-top: -90px;
+    left: 40%;   
+}
+.pedra{
+    position: absolute;
+    margin-top: 190px;
+    left: 37%; 
+    width: 30px;
+    height: 30px;    
+}
+
+.papel{
+    position: absolute;
+    margin-top: 190px;
+    left: 45%; 
+    width: 30px;
+    height: 30px;
+}
+
+.tesoura{
+    position: absolute;
+    margin-top: 190px;
+    left: 53%;   
+    width: 30px;
+    height: 30px;
+}
+
+.img{
+    
+    position: absolute;
+    margin-top: -150px;
+    left: 40%;   
+}
+
